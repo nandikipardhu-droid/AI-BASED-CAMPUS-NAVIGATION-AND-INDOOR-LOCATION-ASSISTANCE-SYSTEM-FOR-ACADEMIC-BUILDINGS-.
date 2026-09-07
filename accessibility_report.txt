@@ -1,0 +1,79 @@
+
+CAMPUS NAVIGATION ACCESSIBILITY REPORT
+
+1. BUILDING ACCESSIBILITY
+Total Buildings: 25
+Accessible Buildings: 15
+Non-Accessible Buildings: 10
+Accessibility Rate: 60.0%
+
+Building Types:
+type
+Cafeteria         6
+Administrative    5
+Library           5
+Laboratory        5
+Sports            3
+Academic          1
+
+2. LOCATION ACCESSIBILITY
+Total Locations: 150
+Accessible Locations: 97
+Non-Accessible Locations: 53
+Accessibility Rate: 64.67%
+
+Location Types:
+type
+Classroom     19
+Laboratory    19
+Office        19
+Restroom      19
+Cafeteria     19
+Entrance      19
+Elevator      18
+Staircase     18
+
+3. NAVIGATION PERFORMANCE
+Total Navigation Queries: 394
+Average Path Length: 5.35 locations
+Average Distance: 437.27 meters
+Average Time: 312.34 minutes
+
+Performance Statistics:
+- Min Distance: 5.83 m
+- Max Distance: 1087.9 m
+- Min Time: 4.16 min
+- Max Time: 777.07 min
+- Median Path Length: 5.0 locations
+- Median Distance: 383.36 m
+
+4. BUILDING CAPACITY ANALYSIS
+Average Building Capacity: 587.76 people
+Min Building Capacity: 120 people
+Max Building Capacity: 971 people
+
+5. CAMPUS LAYOUT
+Campus Dimensions:
+- X Range: 0 to 1000 meters
+- Y Range: 0 to 800 meters
+- Total Campus Area: 800,000 square meters
+
+Building Distribution:
+- Average Building X: 509.6 m
+- Average Building Y: 321.27 m
+
+6. RECOMMENDATIONS
+- Enhance accessibility features in 10 non-accessible buildings
+- Improve signage in high-traffic navigation corridors
+- Consider adding elevator access to multi-floor buildings
+- Implement real-time navigation updates during peak hours
+- Develop mobile app for seamless indoor navigation
+- Add emergency exit information to navigation system
+- Create accessible routes for persons with disabilities
+- Install wayfinding signage at key decision points
+
+7. SYSTEM PERFORMANCE METRICS
+- Navigation Query Success Rate: 78.8%
+- Average Query Processing Time: <1 second
+- System Uptime Target: 99.9%
+- Real-time Location Accuracy: ±5 meters
