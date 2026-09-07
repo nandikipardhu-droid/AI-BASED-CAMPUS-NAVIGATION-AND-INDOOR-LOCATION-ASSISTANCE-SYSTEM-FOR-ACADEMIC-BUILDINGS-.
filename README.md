@@ -1,0 +1,2 @@
+# AI-BASED-CAMPUS-NAVIGATION-AND-INDOOR-LOCATION-ASSISTANCE-SYSTEM-FOR-ACADEMIC-BUILDINGS-.
+Navigating large educational campuses can be challenging for new students, faculty members, and visitors, especially when locating classrooms, laboratories, offices, and other facilities. Traditional campus maps and signboards often provide limited guidance and may not offer real-time navigation or indoor location assistance.
